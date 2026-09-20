@@ -40,7 +40,7 @@ Microsoft hat sie selten gesehen. Sie sagt **nicht**, dass etwas schädlich ist.
 An jeder Veröffentlichung hängt `SHA256SUMS.txt`. So prüft man eine Datei nach:
 
 ```powershell
-Get-FileHash .\Mutexx-Playlister_0.1.0_x64-setup.exe -Algorithm SHA256
+Get-FileHash .\Mutexx.Playlister_0.1.0_x64-setup.exe -Algorithm SHA256
 ```
 
 ```bash
